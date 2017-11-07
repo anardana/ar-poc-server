@@ -8,4 +8,4 @@ Pre-requesites:
 Steps:
 
  1. Run ***source update.sh***
- 2.  Run ***invoke*** tasks (Task list can be seen using *invoke list-tasks*)
+ 2.  Run ***invoke*** tasks (Task list can be seen using *invoke help*)
